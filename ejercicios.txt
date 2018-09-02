@@ -1,0 +1,56 @@
+1. Un alumno desea saber cuál será su calificación final en la materia de Programacion, dicha
+calificación se compone de los siguientes porcentajes, 55% del promedio de sus tres
+calificaciones parciales, 30% de la calificación del examen
+2. Una tienda ofrece un descuento del 15% sobre el total de la compra, y un cliente desea
+saber cuánto deberá pagar finalmente por su compra
+3. Un vendedor recibe un sueldo base más un 10 % extra por comisión de sus ventas, el
+vendedor desea saber cuánto dinero obtendrá por concepto de comisiones por las tres
+ventas que realiza en el mes, y el total que recibirá en el mes
+4. Escribir un programa que permita determinar el mayor de tres números enteros distintos.
+5. Escribir una programa que permita ordenar de menor a mayor tres números enteros
+distintos.
+6. Escribir un programa que permita efectuar el cálculo simplificado de impuestos de
+acuerdo con el siguiente esquema:
+a. Si el monto total es menor de $50.000, entonces calcular Tasa=0,16 * Monto;
+b. Si el monto total es mayor o igual a $50.000 y menor que $100.000 entonces
+calcular Tasa=0,16* Monto+0,2* (Monto-50.000);
+c. Si el monto total es mayor o igual que $100.000 entonces calcular Tasa=0,16*
+Monto+0,2* (Monto-50.000)+0,25* (Monto-100.000).
+7. Escribir un programa que calcule las raíces de una ecuación de segundo grado del tipo
+ax2+bx+c=0.
+8. Escribir un programa que permita transformar un número entero de tres dígitos en el
+correspondiente número romano. 
+9. Dadas las longitudes de tres segmentos A, B y C, escribir un programa que decida si
+con éstos se puede formar un triángulo equilátero o un triángulo isósceles o un triángulo
+escaleno o ninguno de los anteriores.
+10. Escribir un programa que permita determinar si un punto se encuentra en el interior de
+un rectángulo, o en alguno de los lados o en el exterior, teniendo como datos dos vértices
+opuestos de dicho rectángulo.
+11. Escriba un programa que permita tabular la equivalencia entre ºF y ºC, ingresando como
+dato ºC y utilizando la fórmula de conversión ºF = 9/5 ºC + 32, en un intervalo que va de
+un valor A hasta un valor B con incrementos iguales a H.
+12. Modifique la programa anterior para tabular y = sen(x), considerando que los valores de
+A, B y H se ingresan en grados.
+13. Escriba un programa que simule tirar un dado. Modifíquelo para que cuente la cantidad
+de veces que se debe tirar un dado hasta que salga un número entrado por el usuario.
+14. Escriba una programa que permita calcular un valor aproximado para x tal que se cumpla
+que x = cos(x).
+15. Escriba un programa que calcule el promedio de las N notas de los exámenes de cada
+alumno para un curso de M alumnos.
+16. Modifique el programa obtenido en el ejercicio anterior para repetir el experimento 1000
+veces y calcular el promedio obtenido en los 1000 experimentos.
+17. Escriba un programa que permita determinar si un número entero Z es primo o no lo es.
+Hacer uso del teorema:
+Para todo número primo p > 3, se tiene que p=6k+1 ó p=6k-1
+Demostración: Todos los enteros pueden expresarse exactamente de un de las 6
+posibles formas: 6k, 6k+1, 6k+2, 6k+3, 6k-2, ó 6k-1 
+que x = cos(x).
+15. Escriba un programa que calcule el promedio de las N notas de los exámenes de cada
+alumno para un curso de M alumnos.
+16. Modifique el programa obtenido en el ejercicio anterior para repetir el experimento 1000
+veces y calcular el promedio obtenido en los 1000 experimentos.
+17. Escriba un programa que permita determinar si un número entero Z es primo o no lo es.
+Hacer uso del teorema:
+Para todo número primo p > 3, se tiene que p=6k+1 ó p=6k-1
+Demostración: Todos los enteros pueden expresarse exactamente de un de las 6
+posibles formas: 6k, 6k+1, 6k+2, 6k+3, 6k-2, ó 6k-1 
